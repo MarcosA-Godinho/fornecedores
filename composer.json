@@ -1,0 +1,17 @@
+{
+    "name": "fornecedores-mvc",
+    "description": "Sistema de gerenciamento de fornecedores e faturas.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marcos Godinho",
+            "email": "marcosgodinho13@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
